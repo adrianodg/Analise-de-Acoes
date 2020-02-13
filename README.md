@@ -1,1 +1,1 @@
-# Stocks prices prediction using Deep Learning
+# Stocks prices prediction using Deep Learning with Keras
