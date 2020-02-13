@@ -1,1 +1,1 @@
-# Analise-de-Acoes
+# Stocks prices prediction using Deep Learning
